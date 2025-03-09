@@ -1,0 +1,32 @@
+
+
+h1{
+    font-family: cursive;
+}
+
+.green{
+    background-color: green;
+    width: 70px;
+    height: 30px;
+}
+.blue{
+    background-color: rgb(75, 131, 210);
+    width: 70px;
+    height: 30px;
+}
+.red{
+    background-color: rgb(202, 19, 19);
+    width: 70px;
+    height: 30px;
+}
+.yellow{
+    background-color: rgb(234, 228, 46);
+    width: 70px;
+    height: 30px;
+}
+.randomcolor{
+    background-color: rgba(26, 179, 26, 0);
+    width: 70px;
+    height: 30px;
+}
+
